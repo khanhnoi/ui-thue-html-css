@@ -1,0 +1,60 @@
+
+.Rectangle-37 {
+	width: 1440px;
+	height: 576px;
+	padding: 80px 0px 0px 0px;
+
+
+	background-color: #f7f7f7;
+	
+	display: flex;
+	justify-content: center;
+}
+
+.Rectangle-37 .steps {
+	width: 1159px;
+
+	/* background-color: khaki; */
+
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+
+}
+.Rectangle-37 .steps .step{
+	width: 342px;
+
+	/* background-color:lawngreen; */
+	/* border: solid 1px #f7f7f7 */
+
+}
+.Rectangle-37 .steps .step h1{
+	font-family: Heebo;
+	font-size: 32px;
+	font-weight: 300;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: 2.38;
+	letter-spacing: normal;
+	text-align: left;
+	color: #000000;
+}
+
+.Rectangle-37 .steps .step .hr3 {
+	width: 50px;
+	height: 5px;
+	/* border-top: 1px solid #ffffff; */
+
+	background-color: #1E4393;
+	margin-bottom: 23px;
+}
+.Rectangle-37 .steps .step p {
+	font-size: 16px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: 1.5;
+	letter-spacing: normal;
+	text-align: left;
+	color: #000000;
+}

@@ -1,0 +1,86 @@
+.Rectangle-42 {
+	width: 1440px;
+	/* height: 336px; */
+	padding: 61px 0px 0px 0px;
+
+	background-color: #1e4393;
+
+	display: flex;
+	justify-content: center;
+}
+
+.Rectangle-42 .contacts {
+	width: 1022px;
+	/* height: 300px; */
+
+	/* background-color: lightcoral; */
+
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+.Rectangle-42 .contact {
+	width: 240px;
+	/* height: 300px; */
+
+	/* background-color: lightgreen; */
+	margin-bottom: 50px;
+}
+.Rectangle-42 .contact .contact-top {
+	margin: 0px 0px 20px 0px;
+}
+.Rectangle-42 .contact .contact-top h1 {
+	font-family: Heebo;
+	font-size: 25px;
+	font-weight: bold;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: 1.52;
+	letter-spacing: 1.48px;
+	text-align: left;
+	color: #ffffff;
+}
+.Rectangle-42 .contact .contact-bot h2 {
+	font-family: Heebo;
+	font-size: 18px;
+	font-weight: 300;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: 1.94;
+	letter-spacing: normal;
+	text-align: left;
+	color: #ffffff;
+}
+.Rectangle-42 .contact .contact-bot .icon-contact {
+	width: 180px;
+	height: 25px;
+	/* background-color: khaki; */
+	margin: 0px 0px 10px 0px;
+
+	position: relative;
+}
+.Rectangle-42 .contact .contact-bot .icon-contact img {
+	width: 28.2px;
+	height: 28.2px;
+	object-fit: contain;
+	background-color: #1e4393;
+
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+.Rectangle-42 .contact .contact-bot .icon-contact h3 {
+	font-family: Heebo;
+  font-size: 20px;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.85;
+  letter-spacing: normal;
+  text-align: left;
+  color: #ffffff;
+
+	position: absolute;
+	top: -5px;
+	left: 62px;
+}

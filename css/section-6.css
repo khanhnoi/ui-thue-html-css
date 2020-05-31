@@ -1,0 +1,182 @@
+.Path-157 {
+	width: 1440px;
+	/* height: 872px; */
+	padding: 67px 0px 63px 0px;
+
+	background-color: #f7f7f7;
+
+	display: flex;
+	justify-content: center;
+}
+.Path-157 .prices {
+	width: 1159px;
+
+	/* background-color: khaki; */
+
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+.Path-157 .prices .price {
+	width: 370px;
+
+	/* background-color: lawngreen; */
+	/* border: solid 1px #f7f7f7; */
+}
+.Path-157 .prices .price .title-color {
+	width: 370px;
+	height: 52px;
+	padding: 19px 0px 14px 0px;
+	box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.04);
+
+	text-align: center;
+}
+.Path-157 .prices .price .silver {
+	/* background-color: #dfdfdf; */
+	background-color: #887c7c;
+}
+.Path-157 .prices .price .gold {
+	background-color: #f7b809;
+}
+.Path-157 .prices .price .platinum {
+	background-color: #fe9f10;
+}
+
+.Path-157 .prices .price h1 {
+	font-family: Heebo;
+  font-size: 35px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.49;
+  letter-spacing: 3.47px;
+  text-align: center;
+  color: #ffffff;
+
+  display: block;
+  margin: 0px;
+}
+.Path-157 .prices .price .title-2 {
+	width: 370px;
+	height: 30px;
+
+	padding: 16px 0px 14px 0px;
+}
+
+.Path-157 .prices .price .title-2 h2 {
+	font-family: Heebo;
+  font-size: 19px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.05;
+  letter-spacing: normal;
+  text-align: center;
+  color: #4d4f5c;
+
+  display: block;
+  margin: 0px;
+}
+.Path-157 .prices .price .number-price{
+	width: 370px;
+	height: 102px;
+	padding: 0px 46px 0px 47px;
+
+	display: flex;
+}
+
+.Path-157 .prices .price .number-price .value-price{
+	width: 222px;
+	height: 102px;
+
+	padding: 28px 12px 14px 0px;
+
+	text-align: center;
+
+	font-family: Heebo;
+  font-size: 70px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.3;
+  letter-spacing: normal;
+  text-align: right;
+  /* color: #1e4393; */
+
+}
+.Path-157 .prices .price .number-price .month-price{
+	width: 148px;
+	height: 102px;
+	padding: 10px 0px 14px 0px;
+
+	text-align: center;
+
+	font-family: Heebo;
+  font-size: 15px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+  text-align: left;
+  /* color: #1e4393; */
+
+	
+}
+.Path-157 .prices .price .number-price .blue-text{
+	color: #1e4393;
+}
+.Path-157 .prices .price .number-price .gold-text{
+	color: #f7b809;
+}
+.Path-157 .prices .price .number-price .platinum-text{
+	color: #fe9f10;
+}
+
+.Path-157 .prices .price .list-options{
+	width: 370px;
+	/* height: 102px; */
+
+	padding: 0px 0px 0px 80px;
+}
+.Path-157 .prices .price .list-options .option{
+	width: 370px;
+
+	display: flex;
+}
+.Path-157 .prices .price .list-options .dot{
+	width: 9px;
+  height: 9px;
+  margin: 18px;
+
+  background-color: #1e4393;
+  border-radius: 50%;
+}
+.Path-157 .prices .price .list-options .opt-text{
+	/* margin-top: 4px; */
+
+	font-family: Heebo;
+  font-size: 15px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 3;
+  letter-spacing: normal;
+  text-align: left;
+  color: #43425d;
+}
+.Path-157 .prices .price .price-button{
+	width: 370px;
+  height: 70px;
+  background-color: #1e4393;
+
+  font-family: Heebo;
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: center;
+  color: #ffffff;
+}

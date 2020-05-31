@@ -1,0 +1,60 @@
+.Rectangle-38 {
+	width: 1440px;
+	height: 95px;
+	background-color: #092a70;
+
+	position: relative;
+}
+.Rectangle-38 .Right-Reserved {
+	
+
+	font-family: Heebo;
+	font-size: 13px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: 2.15;
+	letter-spacing: normal;
+	text-align: left;
+	color: #ffffff;
+	
+
+	position: absolute;
+	top: 38px;
+	left: 140px;
+}
+
+.Rectangle-38 .Left-menu {
+	width: 563px;
+	height: 21px;
+	
+
+	position: absolute;
+	top: 38px;
+	right: 138px;
+}
+.Rectangle-38 .Left-menu .nav-menus {
+	list-style: none;
+
+	font-family: Heebo;
+	font-size: 14px;
+	font-weight: normal;
+	font-stretch: normal;
+	font-style: normal;
+	line-height: 1.5;
+	letter-spacing: normal;
+	text-align: right;
+	color: #ffffff;
+}
+.Rectangle-38 .Left-menu .nav-menus li {
+	display: inline-block;
+	padding: 0px 10px;
+}
+.Rectangle-38 .Left-menu .nav-menus li a {
+	text-decoration: none;
+	color: #ffffff;
+	transition: all 0.4s ease 0s;
+}
+.Rectangle-38 .Left-menu .nav-menus li a:hover {
+	color: #f7b809;
+}
